@@ -87,3 +87,23 @@ footer {
 */
 
 /* Write your CSS here */
+
+main p:first-child:first-letter {
+  float: left;
+  color: #fff;
+  background-color: grey;
+  font-style: normal;
+  font-size: 75px;
+  line-height: 60px;
+  padding: 1rem .5rem;
+}
+
+figure {
+  float:right;
+  width: 300px;
+}
+
+blockquote {
+  float: left;
+  width: 300px;
+}
